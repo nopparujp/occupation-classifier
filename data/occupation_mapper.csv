@@ -1,0 +1,598 @@
+occupation,occupation_index
+3D Visualizer,0
+Account Director,1
+Account Executive,2
+Account Manager,3
+Accountant,4
+Accounting Analyst,5
+Accounting Consultant,6
+Actuary,7
+Administrator,8
+Admissions Officer,9
+Advertising Executive,10
+Advertising Manager,11
+Advertising Specialist,12
+Advertising and PR Director,13
+Advertising and PR Manager,14
+Agricultural Engineer,15
+Agricultural Representative,16
+Agricultural Specialist,17
+Agricultural and Fish Product Inspector,18
+Agricultural and Natural Resource,19
+Agricultural and Related Service Contractor,20
+Agricultural and Related Service Manager,21
+Agronomist,22
+Air Traffic Control,23
+Allergist,24
+Ambassador,25
+Ambulance Attendant,26
+Anesthetist,27
+Animal Husbandman,28
+Animal Scientist,29
+Animation Designer,30
+Application Design Manager,31
+Archaeologist,32
+Architect,33
+Architect Project Manager,34
+Art Director,35
+Art Teacher,36
+Artisan and Craftperson,37
+Artwork Coordinator,38
+"Assessor, Valuator, Appraiser",39
+Assistant Editor,40
+Assistant Researcher,41
+Astronomer,42
+Attorney,43
+Audio and Video Recording Technician,44
+Audio/Video Broadcast & Postproduction,45
+Audiologist,46
+Auditor,47
+Automation Engineer,48
+Automotive Engineer,49
+Automotive Technician,50
+BOI Administrator,51
+BOI Assistant Manager,52
+BOI Coordinator,53
+BOI Import/ Export Officer,54
+BOI Officer,55
+Baker,56
+Banker,57
+Barista,58
+Barrister,59
+Bartender,60
+Beauty Advisor,61
+Bio Engineer,62
+Biochemist,63
+Biological Technologist and Technician,64
+Biologist,65
+Biostatistician,66
+Branch Manager,67
+Broadcast Technician,68
+Building Facilities Maintenance Staff,69
+Building Manager,70
+Business Analyst,71
+Business Consultant,72
+Business Developer,73
+Business Development Manager,74
+Business Development Officer,75
+Business Manager,76
+Business Officer,77
+Business Owner,78
+CAD Designer,79
+CCTV Installing Technician,80
+CRM Management Manager,81
+Cabin Crew,82
+Cable Televistion Service and Maintenance Technician,83
+Call Center Representative,84
+Cameraman,85
+Cardiologist,86
+Cardiovascular Technician,87
+Career and Technology Teacher,88
+Carpentry/Framing,89
+Cashier,90
+Category Administrative,91
+Category Management,92
+Category Manager,93
+Chairman,94
+Chef,95
+Chemical Engineer,96
+Chemical Technologist and Technician,97
+Chemist,98
+Chief Engineer,99
+Chief Executive Officer,100
+Chief Inspector General,101
+Chief Operation Officer,102
+Chief Operative Officer,103
+Choreographer,104
+Cinematographer,105
+Civil Engineer,106
+Claim Assessor,107
+Cleaning Staff,108
+Client Relationship,109
+Clinical Coordinator,110
+Clinical Laboratory Scientist,111
+Clinical Research Associate,112
+Clinical Researcher,113
+Clinical Therapist,114
+Coach,115
+Collection Manager,116
+Collection Representative,117
+College and Other Vocational Instructor,118
+Columnist,119
+Commercial Manager,120
+Communication Analyst,121
+Communication Director,122
+Communication Manager,123
+Communication Specialist,124
+Community Officer,125
+Compliance,126
+Composer,127
+Computer Teacher,128
+Computer and Systems Engineer,129
+Computer/Telecommunication Technician,130
+Conservator,131
+Construction Manager,132
+Construction/Building Technician,133
+Constructional Contract Administrative Officer,134
+Consul,135
+Contractor & Supervisor,136
+Contracts Administrator,137
+Copy Writer,138
+Corporate Social Responsibility,139
+Cost Engineer,140
+Cost Estimator,141
+Cost Reduction,142
+Court Officers & Justices of the Peace,143
+Court Recorder,144
+Creative Art,145
+Creative Direction/Lead,146
+Creative Director,147
+Customer Service,148
+Customer Service Manager,149
+Customs Clearance Supervisor,150
+DIE Designer,151
+Dancer,152
+Data Analytic,153
+Data Engineer,154
+Data Entry/Order Processor,155
+Data Management,156
+Data Mining Specialist,157
+Data Scientist,158
+Decorative & Arts,159
+Dental Assistant,160
+"Dental Technologist, Technician and Laboratory",161
+Dentist,162
+Deputy Permanent Secretary,163
+Dermatologist,164
+Design Drafter,165
+Design Engineer,166
+Dietitian and Nutritionist,167
+Digital X-ray Service Engineer,168
+Director,169
+Director General,170
+Display Designer,171
+Distribution Director,172
+Distribution Executive,173
+Distribution Manager,174
+Distribution Superintendent,175
+Document Officer,176
+Dog Groomer,177
+Draftsman,178
+Dramatist,179
+Drilling Engineer,180
+Driver,181
+Early Childhood Care & Development Staff,182
+Ecological Scientist,183
+Economic Policy Researcher and Analyst,184
+Economist,185
+Editor,186
+Educational Counsellor,187
+Electric Appliance Service and Repairer,188
+Electric Boiler Technician,189
+Electrical Engineer,190
+Electrician,191
+Electronic Technician,192
+Elementary Teacher,193
+Elevetor Constructor and Mechanic,194
+Energy Engineer,195
+Enforcement Manager,196
+Engine Cadet,197
+Engineer,198
+Engineer Manager,199
+English Language Teacher,200
+Environmental Engineer,201
+Environmental Scientist,202
+Environmental/Geological Testing & Analyst,203
+Epidemiologist,204
+Equipment Engineer,205
+Event Coordinator,206
+Event Management,207
+Event Manager,208
+Event Planner,209
+Executive,210
+Executive Manager,211
+Executive Team Leader,212
+Expediter,213
+Facilities Engineer,214
+Failure Analysis Engineer,215
+Fashion Designer,216
+Field Technician,217
+Film Lighting Filter Installing Technician,218
+Film and Video Camera Operator,219
+Finance Executive - Top Level,220
+Finance Manager,221
+Finance Officer,222
+Financial Advisor,223
+Financial Broker,224
+Financial Consultant,225
+Financial Coordinator,226
+Financial Dealer,227
+Financial Director,228
+Financial Planner,229
+Fisherman,230
+Fishing & Fishing Vessel Operation,231
+Fishing Vessel Skipper,232
+Fitness & Sports Trainer,233
+Flight Engineer,234
+Flight Operations Officer,235
+Floorig/Tiling/Painting/Wallpapering,236
+Flying Instructor,237
+Food & Beverage Serving,238
+Food Additive,239
+Food Consultant,240
+Food Preparation,241
+Food Scientist,242
+Food and Beverage Manager,243
+Forester,244
+Forestry Technologist and Technician,245
+Fund Administrator,246
+Fund Manager,247
+Fundraiser,248
+Game Artist,249
+Game Designer,250
+Game Developer,251
+Game Mathematician,252
+Gardener,253
+Gemologist,254
+General Manager,255
+General Practitioner,256
+Geographer,257
+Geological Engineer,258
+Geoscientist,259
+Goldsmith,260
+Government Finance Officer,261
+Government Relation Specialist (BOI),262
+Graphic Designer,263
+Greenhouse Worker,264
+Ground Attendant,265
+Group Leader Technician,266
+Guest Service Agent,267
+Guidance Teacher,268
+HR Director,269
+HR Manager,270
+HR Officer,271
+HVAC Designer and Installator,272
+Hair Cutting/Styling,273
+Handicap Candidate,274
+Hazardous Materials Handle,275
+Health and Physical Education Teacher,276
+Heavy Equipment Operator,277
+Help Desk,278
+Horticulturist,279
+Host/Hostess,280
+Human Resources Consultant,281
+Hydraulic System Technician,282
+Hydrologist,283
+ICT,284
+IT Analyst,285
+IT Auditor,286
+IT Consultant,287
+IT Manager,288
+IT Security,289
+IT Specialist,290
+IT Support,291
+Import and Export Manager,292
+Import and Export Officer,293
+Incoming Quality Inspector,294
+Industrial Designer,295
+Industrial Engineer,296
+Inspector,297
+Instructor,298
+Instrument Engineer,299
+Instrument Repair Technician,300
+Interior Architecture,301
+Internal Medicine Doctor,302
+Internet and Cable TV Installing Technician,303
+Inventory Planning and Management,304
+Investigator,305
+Investment Analyst,306
+Investment Banker,307
+Investment Consultant,308
+Ironwork/Metal Fabrication,309
+Irrigation Engineer,310
+Jewelry Designer,311
+Jewelry Technician,312
+Job Fair,313
+Journalist,314
+Key Account Manager,315
+Kindergarten Teacher,316
+Lab Specialist,317
+Lab Technician,318
+Laboratory Assistant,319
+Laboratory/Pathology Services,320
+Landscape Architect,321
+Lawyer,322
+"Layout,Prepress,Printing & Binding Operations",323
+Lecturer,324
+Legal Affairs Manager,325
+Legal Counsel,326
+Legal Officer,327
+Librarian,328
+Lifeguard,329
+Localization,330
+Logistic Officer,331
+MC,332
+Machine Operator,333
+Maintenance Technician,334
+Makeup Artist,335
+Management Information System(MIS),336
+Management Trainee,337
+Managing Director,338
+Marketing Communication,339
+Marketing Communication Manager,340
+Marketing Coordinator,341
+Marketing Director,342
+Marketing Manager,343
+Marketing Officer,344
+Master Control Room Officer,345
+Material Control Manager,346
+Material Control Officer,347
+Material Management Manager,348
+Math Teacher,349
+Mathematician,350
+Mathematics & Statistics,351
+Mechanic Technician,352
+Mechanical Engineer,353
+Media Buyer,354
+Media Development Officer,355
+Media Director,356
+Media Planner,357
+Medical Assistant,358
+Medical Director,359
+Medical Equipment Repair Technician,360
+Medical Representative,361
+Medical Sale Equipment,362
+Medical Scientist,363
+Medical Technologist,364
+Medical Therapy/Rehab Services,365
+Merchandise Manager,366
+Merchandiser,367
+Messenger,368
+Milling Technician,369
+Mining Engineer,370
+Mobile Technician,371
+Moldmaking/Casting,372
+Museum Curator,373
+Musician,374
+Naturapath,375
+Network Engineer,376
+Neurologist,377
+Neurosurgeon,378
+News Reporter,379
+Nurse,380
+Nutritionist,381
+Obstetrician,382
+Occupational Health and Safety Officer,383
+Online Marketing Manager,384
+Online Marketing Officer,385
+Operation Staff,386
+Operation and Maintenance Engineer,387
+Operation and Maintenance Transportation,388
+Operations Technician,389
+Ophthalmologist,390
+Optician,391
+Optometrist,392
+Organizational Development Manager,393
+Organizer,394
+Orthopedist,395
+Oto-rhino-laryngologist,396
+Oversea Coordinator,397
+PR Coordinator,398
+PR Director,399
+PR Executive,400
+PR Manager,401
+PR Specialist,402
+Packaging Development,403
+Painter,404
+Patient Care Technician,405
+Pattern Maker,406
+Pediatrician,407
+Performer/Artist,408
+Permanent Secretary,409
+Personal Trainer,410
+Petrochemical Engineer,411
+Petroleum Technician,412
+Pharmacist,413
+Pharmacist Assistant,414
+Photo,415
+Photographer,416
+Photographer & Videographer,417
+Physical Consultant,418
+Physical Therapist,419
+Physician/Doctor,420
+Physicist,421
+Physics Teacher,422
+Pilot,423
+Plant Management Officer,424
+Plant/Factory Manager,425
+Plastering,426
+Plastic Surgeon,427
+Plumber/Pipefitting,428
+Policy Researcher,429
+Porter,430
+Practical Nursing,431
+Pre Elementary Teacher,432
+Presales Support,433
+President,434
+Printing,435
+Printing Technician,436
+Process Control Engineer,437
+Process Engineer,438
+Process Improvement Specialist,439
+Producer,440
+Product Consultant,441
+Product Development Manager,442
+Product Manager,443
+Product Specialist - Engineer,444
+Production,445
+Production Control,446
+Production Manager,447
+Production Planner,448
+Production Planning Manager,449
+Productivity Improvement,450
+Professor,451
+Program Assistant,452
+Programmer / Software Developer,453
+Project Coordinator,454
+Project Coordinator - IT,455
+Project Engineer,456
+Project Manager - IT,457
+Proof Reader,458
+Property Development Manager,459
+Psychiatrist,460
+Psychologist,461
+Public Health Administrator,462
+Publisher,463
+Purchasing Executive,464
+Purchasing Manager,465
+QMS Supervisor,466
+Quality Assurance,467
+Quality Control,468
+Quality Engineer,469
+Radio Systems Engineer,470
+Radio Technologist,471
+Radio and Televison Announcer,472
+Radio and Televison Broadcasting,473
+Radiologist,474
+Receptionist,475
+Recreation Therapist,476
+Recruiter,477
+Regulatory Affairs,478
+Reporter,479
+Research Director,480
+Research Executive,481
+Research Manager,482
+Research and Development Director,483
+Research and Development Engineer,484
+Research and Development Executive,485
+Research and Development Manager,486
+Researcher,487
+Reservation Officer,488
+Residential Home Builder and Renovator,489
+Restaurant Manager,490
+Roofing,491
+Rules Conduct Administrator,492
+Safety Engineer,493
+Safety Officer,494
+Sales,495
+Sales Coordinator,496
+Sales Engineer,497
+Sales Support,498
+Scaffolding Installing Technician,499
+Scheduler,500
+School Principal,501
+Science Teacher,502
+Scientist,503
+Sculpture,504
+Secretary,505
+Security Guard,506
+Security Manager,507
+Security Supervisor,508
+Senior Consultant,509
+Service Engineer,510
+Service Representative,511
+Service Technician,512
+Shipping Officer,513
+Singer,514
+Site Engineer,515
+Site Foreman,516
+Site Manager,517
+Social Studies Teacher,518
+Social Worker,519
+Sociologist,520
+Software Architecture,521
+Solar Cells Installing Technician,522
+Sound and Recording Engineer,523
+Special Education Teacher,524
+Speech/Language Pathologist,525
+Sports Medical Trainer,526
+Statistician,527
+Stock Controller,528
+Store Officer,529
+Stylist,530
+Sub Board Chest/Critical care,531
+Supplier Management/Vendor Management,532
+Surgeon,533
+Survey Engineer,534
+Surveyor,535
+System Administrator,536
+System Analyst,537
+System Architecture,538
+TV Repairing Technician,539
+Tattoo Designer,540
+Tax Assessor,541
+Tax Collector,542
+Tax Director,543
+Tax Manager,544
+Teacher,545
+Teacher Assistant,546
+Teaching Support Staff,547
+Technical Service,548
+Technical Support,549
+Technician,550
+Telecommunication Engineer,551
+Telephone Operator,552
+Tester,553
+Testing Engineer,554
+Textile Designer,555
+Textile Engineer,556
+Thai Language Teacher,557
+Ticketing Officer,558
+Tour Guide,559
+Trackwork Technician,560
+Traffic Manager,561
+Train or Rail Operator,562
+Trainer,563
+Training Officer,564
+Training and Development Manager,565
+Translator,566
+Transportation Manager,567
+Transportation Officer,568
+Travel Agent,569
+Treasurer,570
+Tutor,571
+UI/UX Designer,572
+Underwriter,573
+Urban Architect,574
+Urban and Land Use Planner,575
+"Vehicle Dispatch,Routing and Scheduling Officer",576
+Veterinarian,577
+Vice Chairman of Executive Committee,578
+Vice President,579
+Video Editor,580
+Visual Merchandiser,581
+Visualizer,582
+Voice Over,583
+Warehouse Manager,584
+Warehouse Officer,585
+Warehouse and Logistics Manager,586
+Warehouse and Logistics Officer,587
+Waste Pick-up and Removal Staff,588
+Web Administrator,589
+Web Designer,590
+Welder,591
+Welding Engineer,592
+Western Music Teacher,593
+Wine Steward (Sommelier),594
+Writer,595
+other,596
